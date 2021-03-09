@@ -1,2 +1,4 @@
 # DataStealer
-DataStealer 12023480985098453285385TB USB Storage Device in a nutshell...
+
+
+Weird ransomware and dangerous.
